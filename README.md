@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+//  npm install @headlessui/react @heroicons/react #tailwindcss/line-clamp aosrc-drawer react-dropzone react-icons react-router-dom react-share react-spinners react-toastify swiper
 
 In the project directory, you can run:
 
